@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "name": "RTX 1080 ti",
+      "price": 4355,
+      "id": 1
+    }
+  ]
+}
